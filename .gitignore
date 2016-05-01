@@ -1,2 +1,5 @@
-*.class
+src/benchmarks/error.time
+src/benchmarks/iidToLine.map
+src/benchmarks/iidToLine.map.html
 bin/
+*.class
